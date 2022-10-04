@@ -9,5 +9,6 @@ public class Test {
         System.out.println("ce测试方法");
         System.out.println("ce测试单个");
         System.out.println("pull推送");
+        System.out.println("");
     }
 }
