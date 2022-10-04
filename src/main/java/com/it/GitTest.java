@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("第四次提交");
         System.out.println("master test");
         System.out.println("再次推送");
+        System.out.println("你真棒");
     }
 }
